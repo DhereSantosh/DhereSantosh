@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Software Developer in Test**<br> <br>Versatile professional with 10+ years of experience in Testing and Automation and currently serving as Senior Test Analyst in TSYS global Payments, India and presently working on BASE CRM - ECHO as
+**Software Development Engineer in Test**<br> <br>Versatile professional with 10+ years of experience in Testing and Automation and currently serving as Senior Test Analyst in TSYS global Payments, India and presently working on BASE CRM - ECHO as
 DevOps Engineer.
 
 
